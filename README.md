@@ -1,6 +1,6 @@
 # Conversor De Moedas
 
-Esse código tem como o objetivo a utilizar a APIs e entender o funcionamento delas.
+Esse código tem como o objetivo a utilizar uma API e entender o funcionamento em conexão delas.
 
 Aqui foi utilizado a API Exchangerate  : https://app.exchangerate-api.com/
 
